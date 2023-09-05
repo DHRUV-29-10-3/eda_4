@@ -1,0 +1,35 @@
+steps 
+
+1) importing main 4 libraries 
+
+panda
+seaborn
+matplotlib
+numpy
+
+2) data exploration (understanding about the data)
+
+1).shape
+2).info
+3).columns
+4).head
+5).describe 
+6) .dtype
+
+3) data preperation
+
+1) dropping irrelevant columns 
+2) identify duplicate columns
+3) renaming columns 
+4) feature creation 
+5) null values
+
+
+4) feature understanding or visulaisation using plots 
+
+1) bar plot 
+
+2)histplot 
+
+3)scatter plot 
+
